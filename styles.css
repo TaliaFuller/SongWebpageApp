@@ -1,0 +1,43 @@
+body {
+    background-image: url("Neon2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  h1{
+      color: aliceblue;
+  }
+/* .list-view {
+    display: inline-flex;
+    width:100%;
+  } */
+  .card{
+      height: 28rem;
+      margin-bottom: 10rem;
+  }
+  .card img{
+      height: 10rem;
+      width: 100%;
+  }
+  .title2{
+      margin-bottom: 5rem;
+      text-align: center;
+      margin-top: 5rem;
+      font-family: 'Permanent Marker', cursive;
+      font-size: 4rem;
+  }
+a {
+    color: black;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.controls{
+    display: flex;
+    justify-content: center;
+}
